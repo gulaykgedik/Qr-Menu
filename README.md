@@ -1,7 +1,7 @@
 # QR Menu Projesi 🍽️
 <br/>
 Bu proje, restoran veya kafe gibi işletmelerin menülerini dijitalleştirmesine olanak tanır.
-HTML, CSS ve JavaScript kullanılarak oluşturulan bu sistem, menü listelerini ve ürün detay sayfalarını dinamik bir şekilde oluşturur.
+HTML, CSS, Bootstrap ve JavaScript kullanılarak oluşturulan bu sistem, menü listelerini ve ürün detay sayfalarını dinamik bir şekilde oluşturur.
 
 ## Özellikler 🎉
 <br/>
@@ -12,7 +12,7 @@ HTML, CSS ve JavaScript kullanılarak oluşturulan bu sistem, menü listelerini 
 
 ✨ Modern ve Responsive Tasarım: Menü tüm cihazlarla uyumlu olacak şekilde tasarlanmıştır.
 
-✨ Kolay Kullanım: QR kod tarandığında menüye hızlıca erişim.
+✨ Hızlı Geliştirme: Bootstrap'in güçlü bileşenleri ve ızgara sistemi ile daha hızlı geliştirme süreci.
 
 
 ## Kullanılan Teknolojiler ⚒️
@@ -23,6 +23,10 @@ HTML, CSS ve JavaScript kullanılarak oluşturulan bu sistem, menü listelerini 
 ✨ CSS: Görsel tasarım ve responsive yapı.
 
 ✨ JavaScript: Dinamik içerik oluşturma ve kullanıcı etkileşimi.
+
+✨ Bootstrap: Responsive tasarım ve UI bileşenleri.
+
+
 
 
 ## Örnek Görüntü
